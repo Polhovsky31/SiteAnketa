@@ -371,7 +371,7 @@ img, img.responsive {
 	display: block;
 	width: 26px;
 	height: 26px;
-	color: black;
+	color: #000000;
 	margin: 5px 26px 0 0;	
 }
 .top-social-icon li .fa {
