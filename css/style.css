@@ -116,7 +116,9 @@ img, img.responsive {
 	width: 100%;
 }
 .no-padding {
+	display: flex;
 	padding: 0;
+	flex-wrap: nowrap;
 }
 .uppercase {
 	text-transform: uppercase;
